@@ -1,2 +1,1 @@
-# Calc
-Calc
+calculator is a device that performs mathematical calculations by taking numbers and operations as input and displaying the result on a screen. Calculators can be used for a variety of purposes, including...
