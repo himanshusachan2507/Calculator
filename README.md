@@ -1,1 +1,11 @@
-calculator is a device that performs mathematical calculations by taking numbers and operations as input and displaying the result on a screen. Calculators can be used for a variety of purposes, including...
+The Calculator App is a simple yet powerful web-based application that performs basic arithmetic operations with a clean and user-friendly interface. It is designed as a beginner-friendly project to demonstrate the use of modern web technologies.
+
+ Features -
+
+Perform basic operations: Addition, Subtraction, Multiplication, Division
+
+Responsive and intuitive UI
+
+Error handling for invalid inputs
+
+Keyboard support for faster calculations
